@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDA 2018 Assignment 1</string>
+    <string name="mess_toast">You pressed the button.</string>
+    <string name="name_matthew_brennan">Name: Matthew Brennan</string>
+    <string name="student_id_17112702">Student_id: 17112702</string>
+    <string name="press_me">Press Me!</string>
+</resources>
